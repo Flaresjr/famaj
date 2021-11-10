@@ -1,3 +1,3 @@
 #!/bin/bash
-read -p "Digite um número inteiro:" x
-echo -e "O Valor de x é $((x+134))"
+read -p "Digite um número inteiro:" y
+echo -e "O Valor de y é $((y+42))"
