@@ -7,5 +7,4 @@ echo $3
 ls $3
 echo $4
 ls $4
-echo $5
-ls $5
+
